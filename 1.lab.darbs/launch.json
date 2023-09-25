@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: result",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/result.py",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
